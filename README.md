@@ -1,2 +1,0 @@
-# frenchpythonlover.github.io
-Bienvenue !
