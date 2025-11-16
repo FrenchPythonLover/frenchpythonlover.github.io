@@ -13,6 +13,6 @@ body {
 
 .content {
     /* Semi-transparent background with blur effect */
-    background-color: rgba(0, 0, 0, 0.61); 
+    background-color: rgba(214, 204, 204, 0.479); 
     backdrop-filter: blur(5px);
 }
