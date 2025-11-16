@@ -3,8 +3,16 @@ body {
     margin: 0;
     padding: 0;
     background-image: url("/assets/bg.jpeg");
+    background-repeat:no-repeat;
+    background-position: center center;
 }
 
 .title {
     text-align: center; 
+}
+
+.content {
+    /* Semi-transparent background with blur effect */
+    background-color: rgba(0, 0, 0, 0.61); 
+    backdrop-filter: blur(5px);
 }
